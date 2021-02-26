@@ -1,6 +1,6 @@
-<p align="center"><img width="30%" src="logo.jpg" /></p> 
 # Mathematics-for-Machine-Learning-Specialization
 
+<p align="center"><img width="30%" src="ml_logo.jpg" /></p> 
 
 ## Coursera Specialization Mathematics for Machine Learning
 - Linear Algebra 
